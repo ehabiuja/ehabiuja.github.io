@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehabiuja.github.io/CXG/sitemap_index.txt
+Sitemap: https://ehabiuja.github.io/GdH/sitemap_index.txt
+Sitemap: https://ehabiuja.github.io/lFs/sitemap_index.txt
+Sitemap: https://ehabiuja.github.io/vES/sitemap_index.txt
